@@ -23,7 +23,7 @@
 					orientation: 'vertical',
 					position: 'top-left',
 					side: 'left',
-					width: 275
+					width: 175
 				},
 				titleBar: {
 					breakpoints: 'narrower',
